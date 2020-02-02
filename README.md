@@ -1,2 +1,0 @@
-# Mastermind_CPlusPlus
-test
